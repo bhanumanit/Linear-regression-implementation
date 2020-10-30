@@ -1,5 +1,5 @@
 # Linear regression implementation on Boston house price data
-  <br/>Characteristics of Dataset
+  <br/>**Characteristics of Dataset**
   <br/>Number of instances: 506
    <br/>Number of attributes: 14
      <br/>Attributes information
